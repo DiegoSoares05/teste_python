@@ -1,0 +1,12 @@
+5 - Para executar essa tarefa será necessário os seguintes passos: 
+NA SALA DOS INTERRUPTORES: 
+- ligar o interruptor 1 e deixa-lo ligado por alguns minutos
+- Depois disso, desligue esse interrupor acesso
+- em seguida, ligue o segundo interruptor e deixe ligado
+IDA ATÉ A PRIMEIRA SALA:
+- se a lampada estiver desligada, então coloque a mão e verifique a temperatura 
+se estiver quente, ela é controlada pelo interruptor 1 que foi ligada por alguns minutos 
+- se a lampada estiver apagada e fria ela é controlada pelo interruptor 3 que não foi ligado 
+- se a lampada estiver acessa, é controlada pelo interruptor 2 
+IDA A SEGUNDA SALA: 
+- use o mesmo método da sala anterior, com isso sobrará uma lampada e apenas um interruptor como opção para a ultima sala, logo saberemos qual interruptor controla cada lampada. 
